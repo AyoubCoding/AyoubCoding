@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @AyoubCoding
+- 👀 I’m interested in programing and electronics
+- 🌱 I’m currently programming on Python, C/C++/C#/F#, Java, JavaScript, HTML/CSS
+- 💞️ I’m looking to collaborate on STMicroelectronics
